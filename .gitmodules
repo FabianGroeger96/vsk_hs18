@@ -1,9 +1,0 @@
-[submodule "g02-game"]
-	path = g02-game
-	url = https://gitlab.enterpriselab.ch/vsk-18hs01/g02/g02-game.git
-[submodule "g02-logger"]
-	path = g02-logger
-	url = https://gitlab.enterpriselab.ch/vsk-18hs01/g02/g02-logger.git
-[submodule "g02-stringpersistor"]
-	path = g02-stringpersistor
-	url = https://gitlab.enterpriselab.ch/vsk-18hs01/g02/g02-stringpersistor.git
